@@ -1,0 +1,9 @@
+2021-09-16 10:27:12  [ main:0 ] - [ INFO ] 获取数据库连接：com.mysql.cj.jdbc.ConnectionImpl@2353b3e6
+2021-09-16 10:28:25  [ main:0 ] - [ INFO ] 获取数据库连接：com.mysql.cj.jdbc.ConnectionImpl@2353b3e6
+2021-09-16 10:28:25  [ main:7 ] - [ INFO ] 获取数据库连接：com.mysql.cj.jdbc.ConnectionImpl@1a1d6a08
+2021-09-16 10:29:28  [ main:0 ] - [ DEBUG ] 获取数据库连接：com.mysql.cj.jdbc.ConnectionImpl@77f80c04
+2021-09-16 10:29:28  [ main:7 ] - [ INFO ] 获取数据库连接：com.mysql.cj.jdbc.ConnectionImpl@6db9f5a4
+2021-09-16 10:29:35  [ main:0 ] - [ DEBUG ] 获取数据库连接：com.mysql.cj.jdbc.ConnectionImpl@2353b3e6
+2021-09-16 10:29:35  [ main:7 ] - [ INFO ] 获取数据库连接：com.mysql.cj.jdbc.ConnectionImpl@1a1d6a08
+2021-09-16 10:30:17  [ main:0 ] - [ INFO ] 获取数据库连接：com.mysql.cj.jdbc.ConnectionImpl@2353b3e6
+2021-09-16 10:30:17  [ main:7 ] - [ INFO ] 获取数据库连接：com.mysql.cj.jdbc.ConnectionImpl@1a1d6a08
